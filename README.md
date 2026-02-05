@@ -4,6 +4,9 @@ This is a simple yet effective C++ program designed to generate a visual represe
 🛠️ Description
 The program takes a specific length in millimeters (under 100mm) and prints a formatted ruler using characters. It includes built-in input validation to ensure the user enters a value within the correct range.
 
+### Preview of the Output:
+![Ruler Output Display](ruler_output.png)
+
 ✨ Key Features
 User Interaction: Prompts the user to insert a length value in millimeters.
 
